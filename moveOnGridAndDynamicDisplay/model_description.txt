@@ -1,0 +1,3 @@
+This is a super simple model with no conceptual meaning. It's only purpose is to show how to use the ValueLabels, Grids and continuous space 
+to have static agents (patches) interact with dynamic agents (Agent). There is also a small example on how to change the visualisation of the 
+agents according to their values. 
