@@ -1,0 +1,4 @@
+Extremely simple model where one agent (AgentMoving) moves in a continuous space. The Grid-Space has one agent in each patch. These patches 
+look every period it a AgentMoving is there. If there is at least on, their colour turns red, otherwise it's red. 
+
+This model does not use ValueLabel. 
