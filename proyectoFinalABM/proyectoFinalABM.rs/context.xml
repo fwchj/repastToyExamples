@@ -1,0 +1,6 @@
+<context id="proyectoFinalABM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://repast.org/scenario/context">
+  
+  <projection type="continuous space" id="mundo"/>
+  <projection type="grid" id="ciudades"/>
+
+</context>

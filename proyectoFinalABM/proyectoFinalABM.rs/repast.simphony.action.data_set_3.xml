@@ -1,0 +1,67 @@
+<repast.simphony.data2.engine.DataSetDescriptor simphonyVersion="2.5.0">
+  <name>DS agregadoTodos</name>
+  <type>AGGREGATE</type>
+  <inclTick>true</inclTick>
+  <inclBatchRun>true</inclBatchRun>
+  <inclRandomSeed>true</inclRandomSeed>
+  <scheduleParams>
+    <start>1.0</start>
+    <interval>1.0</interval>
+    <priority>-Infinity</priority>
+    <pType>LAST</pType>
+    <duration>-1.0</duration>
+    <frequency>REPEAT</frequency>
+    <hashCode>-70278306</hashCode>
+  </scheduleParams>
+  <atEnd>false</atEnd>
+  <methodDataSources class="linked-hash-map">
+    <entry>
+      <string>Consumo</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>Consumo</id>
+        <className>proyectoFinalABM.Consumidor</className>
+        <methodName>getConsumoActual</methodName>
+        <aggType>SUM</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>dineroBanco</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>dineroBanco</id>
+        <className>proyectoFinalABM.Consumidor</className>
+        <methodName>getDineroBanco</methodName>
+        <aggType>SUM</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>dineroDisponible</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>dineroDisponible</id>
+        <className>proyectoFinalABM.Consumidor</className>
+        <methodName>getDineroDisponible</methodName>
+        <aggType>SUM</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>montoDeuda</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>montoDeuda</id>
+        <className>proyectoFinalABM.Consumidor</className>
+        <methodName>getMontoDeuda</methodName>
+        <aggType>SUM</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>ingreso</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>ingreso</id>
+        <className>proyectoFinalABM.Consumidor</className>
+        <methodName>getIngresoActual</methodName>
+        <aggType>SUM</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+  </methodDataSources>
+  <countSources class="linked-hash-map"/>
+  <customNADataSources class="linked-hash-map"/>
+  <customAggDataSources class="linked-hash-map"/>
+</repast.simphony.data2.engine.DataSetDescriptor>

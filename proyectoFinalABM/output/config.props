@@ -1,0 +1,9 @@
+model.archive = /Users/alejandro/Google Drive/Java/proyectoFinalABM/output/complete_model.jar
+batch.params.file = scenario.rs/batch_params.xml
+ssh.key_dir = /Users/alejandro/.ssh
+poll.frequency = 60.0
+model.output = /Users/alejandro/Google Drive/Java/proyectoFinalABM/output
+
+vm.arguments = -Xmx512M
+local.0.instances = 8
+local.0.working_directory = /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/
