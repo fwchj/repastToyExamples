@@ -22,7 +22,9 @@ public class AgentGridStyle extends DefaultStyleOGL2D {
 		
 		AgentGrid a = (AgentGrid)o;
 		if(a.occupied) {
-			return Color.RED;
+			return new Color(255,102,102);
+			
+			
 		}
 		else {
 			return Color.GREEN;

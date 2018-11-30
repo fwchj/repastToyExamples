@@ -1,0 +1,17 @@
+package movingAgentColour;
+
+import repast.simphony.space.continuous.ContinuousSpace;
+
+public class Agent {
+
+	ContinuousSpace space;
+	int energy;
+	
+	
+	public Agent(int e, ContinuousSpace space) {
+		this.space = space;
+		this.energy =e;
+		
+	}
+	
+}

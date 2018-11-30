@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Builder.java&apos; to &apos;movingAgentColour/src/movingAgentColour&apos;&#x0D;&#x0A;- Original project: &apos;moveOnGridAndDynamicDisplay&apos;&#x0D;&#x0A;- Destination element: &apos;movingAgentColour/src/movingAgentColour&apos;&#x0D;&#x0A;- Original element: &apos;moveOnGridAndDynamicDisplay.Builder.java&apos;" description="Copy compilation unit" destination="=movingAgentColour/src&lt;movingAgentColour" element1="/src&lt;moveOnGridAndDynamicDisplay{Builder.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1543527390309" units="1" version="1.0"/>
+</session>

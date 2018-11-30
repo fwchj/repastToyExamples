@@ -1,0 +1,610 @@
+INFO  [Thread-9] 2018-05-27 03:30:40,982 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:40,982 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:40,982 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:40,982 repast.simphony.batch.ssh.LocalSession - Run 82: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:41,058 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:41,061 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,061 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,061 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:41,061 repast.simphony.batch.ssh.LocalSession - Run 87: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:41,061 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:41,064 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,064 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,064 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:41,064 repast.simphony.batch.ssh.LocalSession - Run 77: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:41,163 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:41,163 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,163 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,165 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:41,165 repast.simphony.batch.ssh.LocalSession - Run 81: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:41,323 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:41,323 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,323 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,324 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:41,324 repast.simphony.batch.ssh.LocalSession - Run 83: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:41,356 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:41,357 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,357 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,357 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:41,357 repast.simphony.batch.ssh.LocalSession - Run 16: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:41,398 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:41,398 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,398 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,398 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:41,398 repast.simphony.batch.ssh.LocalSession - Run 84: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:41,788 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:41,788 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,788 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,789 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:41,789 repast.simphony.batch.ssh.LocalSession - Run 85: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:41,803 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:41,803 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,803 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,803 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:41,803 repast.simphony.batch.ssh.LocalSession - Run 90: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:41,840 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:41,841 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,841 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,841 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:41,841 repast.simphony.batch.ssh.LocalSession - Run 95: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:41,937 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:41,937 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,938 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:41,938 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:41,938 repast.simphony.batch.ssh.LocalSession - Run 89: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:42,351 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:42,352 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:42,352 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:42,353 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:42,353 repast.simphony.batch.ssh.LocalSession - Run 92: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:42,386 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:42,386 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:42,386 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:42,386 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:42,386 repast.simphony.batch.ssh.LocalSession - Run 91: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:42,785 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:42,785 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:42,785 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:42,785 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:42,785 repast.simphony.batch.ssh.LocalSession - Run 24: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:43,046 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:43,046 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:43,046 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:43,047 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:43,047 repast.simphony.batch.ssh.LocalSession - Run 32: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:43,179 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:43,179 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:43,179 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:43,179 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:43,179 repast.simphony.batch.ssh.LocalSession - Run 40: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:43,364 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:43,364 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:43,367 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:43,368 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:43,368 repast.simphony.batch.ssh.LocalSession - Run 48: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:43,719 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:43,719 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:43,720 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:43,720 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:43,720 repast.simphony.batch.ssh.LocalSession - Run 56: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:43,938 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:43,938 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:43,938 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:43,939 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:43,939 repast.simphony.batch.ssh.LocalSession - Run 64: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:44,277 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:44,277 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:44,277 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:44,277 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:44,278 repast.simphony.batch.ssh.LocalSession - Run 72: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:45,077 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:45,079 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:45,079 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:45,079 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:45,079 repast.simphony.batch.ssh.LocalSession - Run 80: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:45,158 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:45,158 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:45,158 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:45,158 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:45,158 repast.simphony.batch.ssh.LocalSession - Run 93: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:45,329 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:45,330 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:45,330 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:45,330 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:45,330 repast.simphony.batch.ssh.LocalSession - Run 88: Context has been built successfully. It's size is: 220
+INFO  [Thread-9] 2018-05-27 03:30:45,508 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-9] 2018-05-27 03:30:45,509 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 220 
+INFO  [Thread-9] 2018-05-27 03:30:45,509 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 220 
+INFO  [Thread-9] 2018-05-27 03:30:45,509 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-9] 2018-05-27 03:30:45,509 repast.simphony.batch.ssh.LocalSession - Run 96: Context has been built successfully. It's size is: 220
+INFO  [pool-4-thread-1] 2018-05-27 03:31:26,495 repast.simphony.batch.ssh.LocalDonePoller - Polled /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527409762197 for DONE:  yes
+INFO  [SwingWorker-pool-1-thread-5] 2018-05-27 03:31:26,496 repast.simphony.batch.ssh.SessionsDriver - Run Time: 2.0113
+INFO  [SwingWorker-pool-1-thread-5] 2018-05-27 03:31:26,551 repast.simphony.batch.ssh.LocalSession - Finding output on localhost in /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527409762197
+INFO  [SwingWorker-pool-1-thread-5] 2018-05-27 03:31:26,559 repast.simphony.batch.ssh.SessionsDriver - Aggregating output into /Users/alejandro/Google Drive/Java/proyectoFinalABM/output
+INFO  [SwingWorker-pool-1-thread-5] 2018-05-27 03:31:35,003 repast.simphony.batch.ssh.SessionsDriver - Get Output Time: 0.1418
+INFO  [SwingWorker-pool-1-thread-5] 2018-05-27 03:31:35,004 repast.simphony.batch.ssh.SessionsDriver - Finished. Elapsed Time: 2.2136
+WARN  [AWT-EventQueue-0] 2018-05-27 03:35:14,943 repast.simphony.scenario.ScenarioCPInitializer - Warning while parsing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-05-27 03:35:15,070 repast.simphony.scenario.ScenarioLoader - While initializing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+INFO  [AWT-EventQueue-0] 2018-05-27 03:38:01,611 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /Users/alejandro/Google Drive/Java/proyectoFinalABM/output/config.props
+INFO  [AWT-EventQueue-0] 2018-05-27 03:38:02,135 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/Users/alejandro/Google Drive/Java/proyectoFinalABM/batch/batch_params.xml to
+	/var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/unrolledParamFile.txt
+WARN  [AWT-EventQueue-0] 2018-05-27 03:38:34,239 repast.simphony.scenario.ScenarioCPInitializer - Warning while parsing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-05-27 03:38:34,405 repast.simphony.scenario.ScenarioLoader - While initializing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+INFO  [AWT-EventQueue-0] 2018-05-27 03:38:56,722 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /Users/alejandro/Google Drive/Java/proyectoFinalABM/output/config.props
+INFO  [AWT-EventQueue-0] 2018-05-27 03:38:56,944 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/Users/alejandro/Google Drive/Java/proyectoFinalABM/batch/batch_params.xml to
+	/var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/unrolledParamFile.txt
+INFO  [AWT-EventQueue-0] 2018-05-27 03:39:11,765 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /Users/alejandro/Google Drive/Java/proyectoFinalABM/output/config.props
+INFO  [AWT-EventQueue-0] 2018-05-27 03:39:11,783 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/Users/alejandro/Google Drive/Java/proyectoFinalABM/batch/batch_params.xml to
+	/var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/unrolledParamFile.txt
+WARN  [AWT-EventQueue-0] 2018-05-27 03:39:42,037 repast.simphony.scenario.ScenarioCPInitializer - Warning while parsing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-05-27 03:39:42,088 repast.simphony.scenario.ScenarioLoader - While initializing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+INFO  [AWT-EventQueue-0] 2018-05-27 03:47:14,109 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /Users/alejandro/Google Drive/Java/proyectoFinalABM/output/config.props
+INFO  [AWT-EventQueue-0] 2018-05-27 03:47:14,346 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/Users/alejandro/Google Drive/Java/proyectoFinalABM/batch/batch_params.xml to
+	/var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/unrolledParamFile.txt
+INFO  [AWT-EventQueue-0] 2018-05-27 03:47:30,713 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /Users/alejandro/Google Drive/Java/proyectoFinalABM/output/config.props
+INFO  [AWT-EventQueue-0] 2018-05-27 03:47:30,716 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/Users/alejandro/Google Drive/Java/proyectoFinalABM/batch/batch_params.xml to
+	/var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/unrolledParamFile.txt
+INFO  [SwingWorker-pool-1-thread-2] 2018-05-27 03:47:38,910 repast.simphony.batch.ssh.LocalSession - 
+	Copying locally /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/alejandro_localhost6165915873196292584.zip to 
+/var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527410855958 ...
+INFO  [SwingWorker-pool-1-thread-2] 2018-05-27 03:47:39,695 repast.simphony.batch.ssh.LocalSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-2] 2018-05-27 03:47:39,714 repast.simphony.batch.ssh.SessionsDriver - Initialization Time: 0.0623
+INFO  [SwingWorker-pool-1-thread-2] 2018-05-27 03:47:39,715 repast.simphony.batch.ssh.LocalSession - Unzipping model /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527410855958/alejandro_localhost6165915873196292584.zip
+INFO  [SwingWorker-pool-1-thread-2] 2018-05-27 03:47:40,829 repast.simphony.batch.ssh.LocalSession - Running model on localhost ...
+INFO  [Thread-4] 2018-05-27 03:48:40,576 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:40,584 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:40,585 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:40,586 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:40,587 repast.simphony.batch.ssh.LocalSession - Run 2: Context has been built successfully. It's size is: 1100
+INFO  [pool-2-thread-1] 2018-05-27 03:48:41,085 repast.simphony.batch.ssh.LocalDonePoller - Polled /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527410855958 for DONE:  no
+INFO  [Thread-4] 2018-05-27 03:48:44,318 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:44,426 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:44,448 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:44,448 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:44,448 repast.simphony.batch.ssh.LocalSession - Run 6: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:44,905 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:44,922 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:44,932 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:44,933 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:44,951 repast.simphony.batch.ssh.LocalSession - Run 3: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:45,021 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:45,039 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:45,049 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:45,052 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:45,063 repast.simphony.batch.ssh.LocalSession - Run 4: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:45,114 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:45,146 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:45,147 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:45,158 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:45,159 repast.simphony.batch.ssh.LocalSession - Run 8: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:45,514 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:45,530 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:45,541 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:45,553 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:45,556 repast.simphony.batch.ssh.LocalSession - Run 1: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:46,819 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:46,908 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:46,915 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:46,917 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:46,939 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:46,958 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:46,961 repast.simphony.batch.ssh.LocalSession - Run 5: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:47,042 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:47,067 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:47,069 repast.simphony.batch.ssh.LocalSession - Run 7: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:49,646 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:49,646 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:49,647 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:49,647 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:49,647 repast.simphony.batch.ssh.LocalSession - Run 10: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:56,707 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:56,716 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:56,716 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:56,716 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:56,716 repast.simphony.batch.ssh.LocalSession - Run 14: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:57,186 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:57,186 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:57,186 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:57,186 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:57,187 repast.simphony.batch.ssh.LocalSession - Run 11: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:57,411 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:57,411 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:57,411 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:57,411 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:57,411 repast.simphony.batch.ssh.LocalSession - Run 12: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:57,614 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:57,614 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:57,614 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:57,616 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:57,616 repast.simphony.batch.ssh.LocalSession - Run 18: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:57,629 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:57,649 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:57,649 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:57,650 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:57,650 repast.simphony.batch.ssh.LocalSession - Run 16: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:57,995 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:57,997 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:57,997 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:57,997 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:57,997 repast.simphony.batch.ssh.LocalSession - Run 9: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:58,792 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:58,792 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:58,793 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:58,793 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:58,793 repast.simphony.batch.ssh.LocalSession - Run 13: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:48:58,891 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:48:58,891 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:58,893 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:48:58,893 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:48:58,893 repast.simphony.batch.ssh.LocalSession - Run 15: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:03,270 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:03,284 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:03,284 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:03,284 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:03,284 repast.simphony.batch.ssh.LocalSession - Run 22: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:03,436 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:03,436 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:03,437 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:03,437 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:03,438 repast.simphony.batch.ssh.LocalSession - Run 19: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:03,446 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:03,446 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:03,446 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:03,446 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:03,446 repast.simphony.batch.ssh.LocalSession - Run 26: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:03,540 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:03,540 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:03,541 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:03,541 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:03,541 repast.simphony.batch.ssh.LocalSession - Run 20: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:03,755 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:03,755 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:03,755 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:03,755 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:03,755 repast.simphony.batch.ssh.LocalSession - Run 24: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:04,003 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:04,003 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:04,003 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:04,004 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:04,004 repast.simphony.batch.ssh.LocalSession - Run 17: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:04,590 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:04,590 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:04,592 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:04,592 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:04,593 repast.simphony.batch.ssh.LocalSession - Run 23: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:04,786 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:04,787 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:04,787 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:04,787 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:04,787 repast.simphony.batch.ssh.LocalSession - Run 21: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:08,626 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:08,626 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:08,626 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:08,627 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:08,627 repast.simphony.batch.ssh.LocalSession - Run 28: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:08,690 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:08,691 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:08,691 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:08,691 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:08,691 repast.simphony.batch.ssh.LocalSession - Run 30: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:08,752 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:08,753 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:08,753 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:08,753 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:08,754 repast.simphony.batch.ssh.LocalSession - Run 34: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:09,031 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:09,031 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:09,031 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:09,032 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:09,032 repast.simphony.batch.ssh.LocalSession - Run 27: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:09,139 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:09,139 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:09,139 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:09,139 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:09,139 repast.simphony.batch.ssh.LocalSession - Run 32: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:09,252 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:09,253 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:09,254 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:09,254 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:09,254 repast.simphony.batch.ssh.LocalSession - Run 25: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:09,644 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:09,644 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:09,644 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:09,645 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:09,645 repast.simphony.batch.ssh.LocalSession - Run 31: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:10,086 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:10,121 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:10,121 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:10,121 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:10,121 repast.simphony.batch.ssh.LocalSession - Run 29: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:13,613 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:13,614 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:13,614 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:13,614 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:13,614 repast.simphony.batch.ssh.LocalSession - Run 36: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:13,670 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:13,670 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:13,670 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:13,670 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:13,670 repast.simphony.batch.ssh.LocalSession - Run 38: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:13,718 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:13,718 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:13,718 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:13,718 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:13,719 repast.simphony.batch.ssh.LocalSession - Run 35: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:13,835 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:13,835 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:13,835 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:13,835 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:13,835 repast.simphony.batch.ssh.LocalSession - Run 42: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:14,123 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:14,123 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:14,127 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:14,127 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:14,127 repast.simphony.batch.ssh.LocalSession - Run 40: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:14,395 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:14,396 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:14,396 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:14,396 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:14,396 repast.simphony.batch.ssh.LocalSession - Run 33: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:14,741 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:14,742 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:14,742 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:14,742 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:14,742 repast.simphony.batch.ssh.LocalSession - Run 39: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:15,088 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:15,088 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:15,088 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:15,089 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:15,089 repast.simphony.batch.ssh.LocalSession - Run 37: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:17,273 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:17,299 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:17,299 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:17,299 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:17,299 repast.simphony.batch.ssh.LocalSession - Run 43: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:17,302 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:17,302 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:17,302 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:17,302 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:17,302 repast.simphony.batch.ssh.LocalSession - Run 44: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:17,512 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:17,512 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:17,513 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:17,513 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:17,514 repast.simphony.batch.ssh.LocalSession - Run 46: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:17,614 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:17,615 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:17,615 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:17,615 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:17,615 repast.simphony.batch.ssh.LocalSession - Run 50: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:17,941 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:17,977 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:17,977 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:17,977 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:17,977 repast.simphony.batch.ssh.LocalSession - Run 48: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:18,271 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:18,271 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:18,271 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:18,273 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:18,273 repast.simphony.batch.ssh.LocalSession - Run 41: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:18,404 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:18,405 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:18,406 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:18,406 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:18,406 repast.simphony.batch.ssh.LocalSession - Run 47: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:18,719 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:18,720 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:18,720 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:18,720 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:18,724 repast.simphony.batch.ssh.LocalSession - Run 45: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:21,302 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:21,304 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:21,304 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:21,304 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:21,304 repast.simphony.batch.ssh.LocalSession - Run 51: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:21,731 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:21,731 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:21,731 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:21,731 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:21,731 repast.simphony.batch.ssh.LocalSession - Run 52: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:21,995 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:21,995 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:21,995 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:21,995 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:21,995 repast.simphony.batch.ssh.LocalSession - Run 54: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:22,010 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:22,010 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:22,010 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:22,010 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:22,010 repast.simphony.batch.ssh.LocalSession - Run 58: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:22,292 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:22,292 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:22,292 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:22,292 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:22,292 repast.simphony.batch.ssh.LocalSession - Run 49: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:22,382 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:22,382 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:22,382 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:22,382 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:22,383 repast.simphony.batch.ssh.LocalSession - Run 56: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:22,756 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:22,758 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:22,758 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:22,758 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:22,758 repast.simphony.batch.ssh.LocalSession - Run 55: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:23,315 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:23,315 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:23,316 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:23,317 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:23,317 repast.simphony.batch.ssh.LocalSession - Run 53: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:25,118 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:25,119 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:25,119 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:25,119 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:25,119 repast.simphony.batch.ssh.LocalSession - Run 59: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:25,396 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:25,398 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:25,398 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:25,398 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:25,398 repast.simphony.batch.ssh.LocalSession - Run 60: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:25,565 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:25,565 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:25,565 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:25,566 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:25,566 repast.simphony.batch.ssh.LocalSession - Run 62: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:25,980 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:25,981 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:25,981 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:25,981 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:25,981 repast.simphony.batch.ssh.LocalSession - Run 57: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:26,118 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:26,119 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:26,119 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:26,121 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:26,121 repast.simphony.batch.ssh.LocalSession - Run 64: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:26,256 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:26,256 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:26,257 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:26,257 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:26,257 repast.simphony.batch.ssh.LocalSession - Run 63: Context has been built successfully. It's size is: 1100
+INFO  [Thread-4] 2018-05-27 03:49:26,631 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-4] 2018-05-27 03:49:26,631 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:26,631 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-4] 2018-05-27 03:49:26,632 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-4] 2018-05-27 03:49:26,632 repast.simphony.batch.ssh.LocalSession - Run 61: Context has been built successfully. It's size is: 1100
+INFO  [pool-2-thread-1] 2018-05-27 03:49:41,088 repast.simphony.batch.ssh.LocalDonePoller - Polled /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527410855958 for DONE:  yes
+INFO  [SwingWorker-pool-1-thread-2] 2018-05-27 03:49:41,088 repast.simphony.batch.ssh.SessionsDriver - Run Time: 2.0229
+INFO  [SwingWorker-pool-1-thread-2] 2018-05-27 03:49:41,193 repast.simphony.batch.ssh.LocalSession - Finding output on localhost in /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527410855958
+INFO  [SwingWorker-pool-1-thread-2] 2018-05-27 03:49:41,270 repast.simphony.batch.ssh.SessionsDriver - Aggregating output into /Users/alejandro/Google Drive/Java/proyectoFinalABM/output
+INFO  [SwingWorker-pool-1-thread-2] 2018-05-27 03:50:13,227 repast.simphony.batch.ssh.SessionsDriver - Get Output Time: 0.5357
+INFO  [SwingWorker-pool-1-thread-2] 2018-05-27 03:50:13,227 repast.simphony.batch.ssh.SessionsDriver - Finished. Elapsed Time: 2.6214
+INFO  [AWT-EventQueue-0] 2018-05-27 03:57:42,166 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /Users/alejandro/Google Drive/Java/proyectoFinalABM/output/config.props
+INFO  [AWT-EventQueue-0] 2018-05-27 03:57:42,182 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/Users/alejandro/Google Drive/Java/proyectoFinalABM/batch/batch_params.xml to
+	/var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/unrolledParamFile.txt
+INFO  [AWT-EventQueue-0] 2018-05-27 03:58:14,516 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /Users/alejandro/Google Drive/Java/proyectoFinalABM/output/config.props
+INFO  [AWT-EventQueue-0] 2018-05-27 03:58:14,519 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/Users/alejandro/Google Drive/Java/proyectoFinalABM/batch/batch_params.xml to
+	/var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/unrolledParamFile.txt
+INFO  [AWT-EventQueue-0] 2018-05-27 03:59:07,417 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /Users/alejandro/Google Drive/Java/proyectoFinalABM/output/config.props
+INFO  [AWT-EventQueue-0] 2018-05-27 03:59:07,420 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/Users/alejandro/Google Drive/Java/proyectoFinalABM/batch/batch_params.xml to
+	/var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/unrolledParamFile.txt
+INFO  [AWT-EventQueue-0] 2018-05-27 03:59:41,538 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /Users/alejandro/Google Drive/Java/proyectoFinalABM/output/config.props
+INFO  [AWT-EventQueue-0] 2018-05-27 03:59:41,546 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/Users/alejandro/Google Drive/Java/proyectoFinalABM/batch/batch_params.xml to
+	/var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/unrolledParamFile.txt
+INFO  [SwingWorker-pool-1-thread-6] 2018-05-27 03:59:48,749 repast.simphony.batch.ssh.LocalSession - 
+	Copying locally /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/alejandro_localhost6365382614362979602.zip to 
+/var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527411585970 ...
+INFO  [SwingWorker-pool-1-thread-6] 2018-05-27 03:59:49,222 repast.simphony.batch.ssh.LocalSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-6] 2018-05-27 03:59:49,222 repast.simphony.batch.ssh.SessionsDriver - Initialization Time: 0.0542
+INFO  [SwingWorker-pool-1-thread-6] 2018-05-27 03:59:49,223 repast.simphony.batch.ssh.LocalSession - Unzipping model /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527411585970/alejandro_localhost6365382614362979602.zip
+INFO  [SwingWorker-pool-1-thread-6] 2018-05-27 03:59:49,917 repast.simphony.batch.ssh.LocalSession - Running model on localhost ...
+INFO  [Thread-5] 2018-05-27 04:00:17,789 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-5] 2018-05-27 04:00:17,844 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-5] 2018-05-27 04:00:17,844 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-5] 2018-05-27 04:00:17,844 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-5] 2018-05-27 04:00:17,844 repast.simphony.batch.ssh.LocalSession - Run 4: Context has been built successfully. It's size is: 1100
+INFO  [Thread-5] 2018-05-27 04:00:17,844 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-5] 2018-05-27 04:00:17,845 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-5] 2018-05-27 04:00:17,868 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-5] 2018-05-27 04:00:17,868 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-5] 2018-05-27 04:00:17,869 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-5] 2018-05-27 04:00:17,869 repast.simphony.batch.ssh.LocalSession - Run 1: Context has been built successfully. It's size is: 1100
+INFO  [Thread-5] 2018-05-27 04:00:17,885 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-5] 2018-05-27 04:00:17,897 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-5] 2018-05-27 04:00:17,897 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-5] 2018-05-27 04:00:17,900 repast.simphony.batch.ssh.LocalSession - Run 2: Context has been built successfully. It's size is: 1100
+INFO  [Thread-5] 2018-05-27 04:00:17,931 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-5] 2018-05-27 04:00:18,099 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-5] 2018-05-27 04:00:18,117 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-5] 2018-05-27 04:00:18,136 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-5] 2018-05-27 04:00:18,142 repast.simphony.batch.ssh.LocalSession - Run 3: Context has been built successfully. It's size is: 1100
+INFO  [pool-3-thread-1] 2018-05-27 04:00:49,922 repast.simphony.batch.ssh.LocalDonePoller - Polled /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527411585970 for DONE:  yes
+INFO  [SwingWorker-pool-1-thread-6] 2018-05-27 04:00:49,958 repast.simphony.batch.ssh.SessionsDriver - Run Time: 1.0123
+INFO  [SwingWorker-pool-1-thread-6] 2018-05-27 04:00:49,984 repast.simphony.batch.ssh.LocalSession - Finding output on localhost in /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527411585970
+INFO  [SwingWorker-pool-1-thread-6] 2018-05-27 04:00:49,990 repast.simphony.batch.ssh.SessionsDriver - Aggregating output into /Users/alejandro/Google Drive/Java/proyectoFinalABM/output
+INFO  [SwingWorker-pool-1-thread-6] 2018-05-27 04:00:50,866 repast.simphony.batch.ssh.SessionsDriver - Get Output Time: 0.0151
+INFO  [SwingWorker-pool-1-thread-6] 2018-05-27 04:00:50,866 repast.simphony.batch.ssh.SessionsDriver - Finished. Elapsed Time: 1.0817
+INFO  [AWT-EventQueue-0] 2018-05-27 04:16:59,756 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /Users/alejandro/Google Drive/Java/proyectoFinalABM/output/config.props
+INFO  [AWT-EventQueue-0] 2018-05-27 04:16:59,789 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/Users/alejandro/Google Drive/Java/proyectoFinalABM/batch/batch_params.xml to
+	/var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/unrolledParamFile.txt
+INFO  [AWT-EventQueue-0] 2018-05-27 04:17:29,806 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /Users/alejandro/Google Drive/Java/proyectoFinalABM/output/config.props
+INFO  [AWT-EventQueue-0] 2018-05-27 04:17:29,809 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/Users/alejandro/Google Drive/Java/proyectoFinalABM/batch/batch_params.xml to
+	/var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/unrolledParamFile.txt
+INFO  [SwingWorker-pool-1-thread-8] 2018-05-27 04:17:37,566 repast.simphony.batch.ssh.LocalSession - 
+	Copying locally /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/alejandro_localhost4718633451605620588.zip to 
+/var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527412654515 ...
+INFO  [SwingWorker-pool-1-thread-8] 2018-05-27 04:17:38,085 repast.simphony.batch.ssh.LocalSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-8] 2018-05-27 04:17:38,085 repast.simphony.batch.ssh.SessionsDriver - Initialization Time: 0.0595
+INFO  [SwingWorker-pool-1-thread-8] 2018-05-27 04:17:38,085 repast.simphony.batch.ssh.LocalSession - Unzipping model /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527412654515/alejandro_localhost4718633451605620588.zip
+INFO  [SwingWorker-pool-1-thread-8] 2018-05-27 04:17:38,868 repast.simphony.batch.ssh.LocalSession - Running model on localhost ...
+INFO  [pool-4-thread-1] 2018-05-27 04:18:38,869 repast.simphony.batch.ssh.LocalDonePoller - Polled /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527412654515 for DONE:  no
+INFO  [Thread-8] 2018-05-27 04:18:48,415 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-8] 2018-05-27 04:18:48,444 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:48,445 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:48,447 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-8] 2018-05-27 04:18:48,449 repast.simphony.batch.ssh.LocalSession - Run 2: Context has been built successfully. It's size is: 1100
+INFO  [Thread-8] 2018-05-27 04:18:52,105 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-8] 2018-05-27 04:18:52,112 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:52,115 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:52,117 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-8] 2018-05-27 04:18:52,117 repast.simphony.batch.ssh.LocalSession - Run 6: Context has been built successfully. It's size is: 1100
+INFO  [Thread-8] 2018-05-27 04:18:52,465 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-8] 2018-05-27 04:18:52,480 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:52,492 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:52,526 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-8] 2018-05-27 04:18:52,528 repast.simphony.batch.ssh.LocalSession - Run 5: Context has been built successfully. It's size is: 1100
+INFO  [Thread-8] 2018-05-27 04:18:52,613 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-8] 2018-05-27 04:18:52,626 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:52,627 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:52,628 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-8] 2018-05-27 04:18:52,633 repast.simphony.batch.ssh.LocalSession - Run 3: Context has been built successfully. It's size is: 1100
+INFO  [Thread-8] 2018-05-27 04:18:52,904 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-8] 2018-05-27 04:18:52,961 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:52,962 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:52,962 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-8] 2018-05-27 04:18:52,963 repast.simphony.batch.ssh.LocalSession - Run 1: Context has been built successfully. It's size is: 1100
+INFO  [Thread-8] 2018-05-27 04:18:53,207 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-8] 2018-05-27 04:18:53,214 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:53,214 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:53,214 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-8] 2018-05-27 04:18:53,215 repast.simphony.batch.ssh.LocalSession - Run 8: Context has been built successfully. It's size is: 1100
+INFO  [Thread-8] 2018-05-27 04:18:53,491 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-8] 2018-05-27 04:18:53,594 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:53,605 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:53,610 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-8] 2018-05-27 04:18:53,613 repast.simphony.batch.ssh.LocalSession - Run 7: Context has been built successfully. It's size is: 1100
+INFO  [Thread-8] 2018-05-27 04:18:55,707 repast.simphony.batch.ssh.LocalSession - El builder corrio exitosamente
+INFO  [Thread-8] 2018-05-27 04:18:55,713 repast.simphony.batch.ssh.LocalSession - Tamaño mundo (ContinuousSpace): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:55,717 repast.simphony.batch.ssh.LocalSession - Tamaño ciudades (grid): 1100 
+INFO  [Thread-8] 2018-05-27 04:18:55,718 repast.simphony.batch.ssh.LocalSession - Tamaño: 100 
+INFO  [Thread-8] 2018-05-27 04:18:55,719 repast.simphony.batch.ssh.LocalSession - Run 4: Context has been built successfully. It's size is: 1100
+INFO  [pool-4-thread-1] 2018-05-27 04:19:38,883 repast.simphony.batch.ssh.LocalDonePoller - Polled /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527412654515 for DONE:  yes
+INFO  [SwingWorker-pool-1-thread-8] 2018-05-27 04:19:38,909 repast.simphony.batch.ssh.SessionsDriver - Run Time: 2.0137
+INFO  [SwingWorker-pool-1-thread-8] 2018-05-27 04:19:38,932 repast.simphony.batch.ssh.LocalSession - Finding output on localhost in /var/folders/_9/_2fvn19j1nl0dgrqx8ssgzyw0000gn/T/simphony_model_1527412654515
+INFO  [SwingWorker-pool-1-thread-8] 2018-05-27 04:19:38,949 repast.simphony.batch.ssh.SessionsDriver - Aggregating output into /Users/alejandro/Google Drive/Java/proyectoFinalABM/output
+INFO  [SwingWorker-pool-1-thread-8] 2018-05-27 04:19:41,674 repast.simphony.batch.ssh.SessionsDriver - Get Output Time: 0.0461
+INFO  [SwingWorker-pool-1-thread-8] 2018-05-27 04:19:41,674 repast.simphony.batch.ssh.SessionsDriver - Finished. Elapsed Time: 2.1194
+WARN  [AWT-EventQueue-0] 2018-05-27 11:57:37,003 repast.simphony.scenario.ScenarioCPInitializer - Warning while parsing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-05-27 11:57:37,319 repast.simphony.scenario.ScenarioLoader - While initializing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-05-27 12:03:51,228 repast.simphony.scenario.ScenarioCPInitializer - Warning while parsing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-05-27 12:03:51,298 repast.simphony.scenario.ScenarioLoader - While initializing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-05-29 08:59:12,130 repast.simphony.scenario.ScenarioCPInitializer - Warning while parsing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-05-29 08:59:12,401 repast.simphony.scenario.ScenarioLoader - While initializing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-05-29 11:34:18,580 repast.simphony.scenario.ScenarioCPInitializer - Warning while parsing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-05-29 11:34:18,720 repast.simphony.scenario.ScenarioLoader - While initializing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-05-29 11:36:40,848 repast.simphony.scenario.ScenarioCPInitializer - Warning while parsing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-05-29 11:36:40,950 repast.simphony.scenario.ScenarioLoader - While initializing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-11-20 17:47:22,916 repast.simphony.scenario.ScenarioCPInitializer - Warning while parsing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/PROGRAMACION/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-11-20 17:47:23,080 repast.simphony.scenario.ScenarioLoader - While initializing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/PROGRAMACION/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-11-20 17:56:49,006 repast.simphony.scenario.ScenarioCPInitializer - Warning while parsing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/PROGRAMACION/Java/proyectoFinalABM/lib'.
+WARN  [AWT-EventQueue-0] 2018-11-20 17:56:49,109 repast.simphony.scenario.ScenarioLoader - While initializing classpath: Empty or non-existent path '/Users/alejandro/Google Drive/PROGRAMACION/Java/proyectoFinalABM/lib'.

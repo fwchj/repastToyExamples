@@ -54,6 +54,9 @@ public class Builder implements ContextBuilder<Object> {
 		
 		System.out.printf("Grid-size:%s\n",grid.size());
 		System.out.printf("Space-size:%s\n",space.size());
+		
+		
+		
 		return context;
 	}
 

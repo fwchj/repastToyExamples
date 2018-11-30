@@ -1,0 +1,9 @@
+package movingAgentColour;
+
+import repast.simphony.visualizationOGL2D.DefaultStyleOGL2D;
+
+public class AgentStyle implements DefaultStyleOGL2D {
+	
+	
+
+}

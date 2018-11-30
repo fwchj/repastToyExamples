@@ -1,0 +1,14 @@
+package movingAgentColour;
+
+import java.awt.Color;
+
+import repast.simphony.visualizationOGL2D.DefaultStyleOGL2D;
+
+public class AgentStyle extends DefaultStyleOGL2D {
+	
+	@Override
+	public Color getColor(Object o) {
+		return Color.MAGENTA;
+	}
+
+}

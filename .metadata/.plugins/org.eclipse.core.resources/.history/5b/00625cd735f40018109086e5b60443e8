@@ -1,0 +1,47 @@
+package movingAgentColour;
+
+import java.awt.Color;
+
+import repast.simphony.visualizationOGL2D.DefaultStyleOGL2D;
+import saf.v3d.scene.VSpatial;
+
+public class AgentStyle extends DefaultStyleOGL2D {
+	
+	@Override
+	public Color getColor(Object o) {
+		Agent a = (Agent)o;
+		/*if(a.energy<10) {
+			return Color.RED;
+		}
+		else {
+			return Color.BLUE;
+		}*/
+		
+		int green = 255*(a.energy/50);
+		int red 	= 255-green;
+		
+		System.out.printf("Energy %s => g=%s,r=%s\n",a.energy,green,red);
+		
+		return new Color(red,green,0);
+		
+		
+		
+	}
+	
+	@Override
+	public float getScale(Object o) {
+		Agent a = (Agent)o;
+		
+		return (float) Math.max(1,a.energy/5);
+	}
+	
+	@Override
+	public VSpatial getVSpatial(Object agent, VSpatial spatial) {
+	    if (spatial == null) {
+	      spatial = shapeFactory.createRectangle(10,5); 
+	    }
+	    return spatial;
+	  }
+
+
+}
